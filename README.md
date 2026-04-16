@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @angeligazola
 - 👀 I’m interested in internal medicine, with a special focus on hematology/oncology
 - 🌱 I’m currently learning biomedical informatics
-- 📫 How to reach me antonia.gazola@edu.pucrs.br
+- 📫 How to reach me antonia.gazola@acad.pucrs.br
 
 
 <!---
